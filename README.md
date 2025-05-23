@@ -1,19 +1,14 @@
 # Weather App
 
-A simple command-line weather application written in Rust that fetches current weather data for New York City using the Open-Meteo API.
+A CLI weather app built in Rust that shows current weather conditions for NYC using Open-Meteo API.
 
-## Features
-- Displays current temperature
-- Shows "feels like" temperature
-- Humidity levels
-- Precipitation information
-- Wind speed
-
-## Requirements
-- Rust
-- Cargo
-
-## Running the App
+## Quick Start
 ```bash
 cargo run
-``` 
+```
+
+## Output
+- Temperature & "feels like"
+- Humidity
+- Precipitation
+- Wind speed
